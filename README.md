@@ -2,8 +2,8 @@
 Go to the location with a pass, after the time moves to the city.<br/>
 ```
 Additional settings:
-h-ook1 - NPc ID through which to teleport
--ook2 - Map ID on which it should teleport
+- hook1 - NPc ID through which to teleport
+- hook2 - Map ID on which it should teleport
 ```
 Setting
 ```
